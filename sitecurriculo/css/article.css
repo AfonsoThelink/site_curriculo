@@ -1,0 +1,16 @@
+article{
+    border-radius: 7px;
+    height: 1100px;
+    flex: 70%;
+    margin-left: 1em;
+}
+.formacao{
+    height: 50%;
+    background-color: var(--secundaria);
+    border-radius: 7px;
+}
+.educacao{
+    height: 50%;
+    background-color: var(--secundaria);
+    border-radius: 7px;
+}
